@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900"><defs>
+<filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".75"/></radialGradient></defs>
+    <rect width="1600" height="900" fill="#0b0b0b"/>
+    <rect x="560" y="-180" width="80" height="1350" fill="#F2EFEA" opacity="0.08" transform="rotate(18 800 450)"/><rect x="768" y="-180" width="80" height="1350" fill="#F2EFEA" opacity="0.12" transform="rotate(18 800 450)"/><rect x="976" y="-180" width="80" height="1350" fill="#FF3B2F" opacity="0.9" transform="rotate(18 800 450)"/><rect x="1184" y="-180" width="80" height="1350" fill="#F2EFEA" opacity="0.2" transform="rotate(18 800 450)"/><rect x="1392" y="-180" width="80" height="1350" fill="#F2EFEA" opacity="0.24" transform="rotate(18 800 450)"/>
+    <text x="96" y="702" font-family="Archivo, Arial Black, sans-serif" font-weight="900" font-size="270" fill="#F2EFEA"  letter-spacing="-12" >LAUNCH</text><text x="104" y="792" font-family="Archivo, Arial Black, sans-serif" font-weight="500" font-size="40.5" fill="#BDBDBD"  letter-spacing="6" >DAY — PRODUCT PROMO EDIT</text>
+  <rect width="1600" height="900" filter="url(#g)" opacity=".16"/>
+  <rect width="1600" height="900" fill="url(#vig)"/></svg>

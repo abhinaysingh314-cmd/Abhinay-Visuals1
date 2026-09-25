@@ -1,0 +1,13 @@
+{
+  "name": "abhinay-visuals",
+  "version": "1.0.0",
+  "description": "Cinematic portfolio for Abhinay Singh — Video Editor, Graphic Designer, Visual Storyteller.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "author": "Abhinay Singh",
+  "license": "UNLICENSED"
+}

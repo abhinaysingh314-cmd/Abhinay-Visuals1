@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900"><defs>
+<filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".75"/></radialGradient></defs>
+    <defs><filter id="b"><feGaussianBlur stdDeviation="80"/></filter></defs>
+    <rect width="1600" height="900" fill="#08070d"/>
+    <g filter="url(#b)"><circle cx="480" cy="360" r="315" fill="#5b2cff" opacity=".7"/><circle cx="992" cy="495.00000000000006" r="270" fill="#FF3B2F" opacity=".75"/><circle cx="1248" cy="270" r="198" fill="#1fb6ff" opacity=".6"/></g>
+    <text x="800" y="504.00000000000006" font-family="Archivo, Arial Black, sans-serif" font-weight="900" font-size="180" fill="#F2EFEA" text-anchor="middle" letter-spacing="-6" >DREAMFRAMES</text>
+    <text x="800" y="594" font-family="Archivo, Arial Black, sans-serif" font-weight="500" font-size="36" fill="#F2EFEA" text-anchor="middle" letter-spacing="10" >AI-ASSISTED VISUALS</text>
+  <rect width="1600" height="900" filter="url(#g)" opacity=".16"/>
+  <rect width="1600" height="900" fill="url(#vig)"/></svg>
